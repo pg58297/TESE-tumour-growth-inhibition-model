@@ -25,8 +25,8 @@ The scripts implement a mathematical model describing tumour cell viability, FAK
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/tumour-growth-inhibition-model.git
-cd tumour-growth-inhibition-model
+git clone https://github.com/pg58297/TESE-tumour-growth-inhibition-model.git
+cd TESE-tumour-growth-inhibition-model
 ```
 
 Install the required packages:
